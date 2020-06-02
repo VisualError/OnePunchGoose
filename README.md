@@ -17,13 +17,13 @@ Author: **vis#7946**
 Please keep in mind that this mod will fill up your screen with particles that can go as fast as the speed of light. <b>And makes the goose very angry
 </b>
 
-## Preview
-![https://i.imgur.com/XmqpKNo.gif](https://i.imgur.com/XmqpKNo.gif)
-
 ## Features
 
  - Goose makes your cursor spasm all over the place if you anger it.
  - Particles that looks hot. <sub><sup>haha not really</sup></sub>
  - No more biting!
  <sub>(Known bugs.. It only removes the problem of the goose and gives you more problems)</sub>
+
+## Preview
+![https://i.imgur.com/XmqpKNo.gif](https://i.imgur.com/XmqpKNo.gif)
 
