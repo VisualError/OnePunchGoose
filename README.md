@@ -20,7 +20,8 @@ Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 
  - Goose makes your cursor spasm all over the place if you anger it.
  - Particles that looks hot. <sub><sup>haha not really</sup></sub>
- - No more biting!
+ - Impactful sound!
+ - AND LASTLY, No more biting!
  <sub>(Known bug.. It only removes the problem of the goose and gives you more problems)</sub>
 
 
