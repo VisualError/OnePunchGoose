@@ -10,11 +10,6 @@ Get it: [One Punch Goose](https://github.com/VisualError/OnePunchGoose/releases/
 
 Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 
-Goose Version: **v0.3**
-
-Mod Version: **v1.0**
-
-Author: **vis#7946**
 ## DISCLAIMER
 Please keep in mind that this mod will fill up your screen with particles that can go as fast as the speed of light. <b>And makes the goose very angry
 </b>
@@ -25,6 +20,12 @@ Please keep in mind that this mod will fill up your screen with particles that c
  - Particles that looks hot. <sub><sup>haha not really</sup></sub>
  - No more biting!
  <sub>(Known bugs.. It only removes the problem of the goose and gives you more problems)</sub>
+
+Goose Version: **v0.3**
+
+Mod Version: **v1.0**
+
+Author: **vis#7946**
 
 ## Preview
 ![https://i.imgur.com/XmqpKNo.gif](https://i.imgur.com/XmqpKNo.gif)
