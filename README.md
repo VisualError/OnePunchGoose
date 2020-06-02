@@ -21,12 +21,13 @@ Please keep in mind that this mod will fill up your screen with particles that c
  - No more biting!
  <sub>(Known bugs.. It only removes the problem of the goose and gives you more problems)</sub>
 
+
+## Preview
 Goose Version: **v0.3**
 
 Mod Version: **v1.0**
 
 Author: **vis#7946**
 
-## Preview
 ![https://i.imgur.com/XmqpKNo.gif](https://i.imgur.com/XmqpKNo.gif)
 
