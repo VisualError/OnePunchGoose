@@ -1,6 +1,6 @@
 
 # OnePunchGoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/OnePunchGoose/total?logo=github)
-### A Mod to punch problems away! 
+### A Mod to Punch Problems away! 
 
 
 Whenever you unplease the goose it unleashes its anger and bites your cursor,
