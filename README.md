@@ -6,6 +6,8 @@
 Whenever you unplease the goose it unleashes its anger and bites your cursor,
 and nobody wants their cursor to be bitten by this goose! So this mod makes your cursor get punched by the goose.. <sub><sup>wait-</sup></sub>
 
+# Download
+
 Get it: [One Punch Goose](https://github.com/VisualError/OnePunchGoose/releases/download/1.0/OnePunchGoose.dll)
 
 Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
