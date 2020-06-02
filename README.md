@@ -8,6 +8,8 @@ and nobody wants their cursor to be bitten by this goose! So this mod makes your
 
 Get it: [One Punch Goose](https://github.com/VisualError/OnePunchGoose/releases/download/1.0/OnePunchGoose.dll)
 
+Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
+
 Goose Version: **v0.3**
 
 Mod Version: **v1.0**
