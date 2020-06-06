@@ -28,7 +28,7 @@ Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 ## Preview
 Goose Version: **v0.3**
 
-Mod Version: **v1.0**
+Mod Version: ![GitHub Releases (by Release)](http://img.shields.io/github/v/release/VisualError/OnePunchGoose.svg)
 
 Author: **vis#7946**
 
