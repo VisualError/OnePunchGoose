@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config.cs" />
+    <Compile Include="Environment.cs" />
     <Compile Include="ModMain.cs" />
     <Compile Include="ParticleEngine.cs" />
     <Compile Include="Particles.cs" />

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GooseModdingAPI")]
+[assembly: AssemblyTitle("DefaultMod")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GooseModdingAPI")]
+[assembly: AssemblyProduct("DefaultMod")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f0849c98-e0df-47a4-944e-377efac303f1")]
+[assembly: Guid("b28cf25d-843c-45b6-aef1-0a117f1852f5")]
 
 // Version information for an assembly consists of the following four values:
 //
