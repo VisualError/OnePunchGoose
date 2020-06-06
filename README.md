@@ -12,7 +12,7 @@ Please keep in mind that this mod will fill up your screen with particles that c
 
 # Download
 
-Get it: [One Punch Goose](https://github.com/VisualError/OnePunchGoose/releases/download/1.0/OnePunchGoose.dll)
+Get it: [One Punch Goose](https://github.com/VisualError/OnePunchGoose/releases/latest/download/OnePunchGoose.dll)
 
 Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 
