@@ -1,6 +1,6 @@
 
-# OnePunchGoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/OnePunchGoose/total?logo=github)
-### A Mod to punch problems away! 
+# OnePunchGoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/OnePunchGoose/total?logo=github) ![GitHub Releases (by Release)](http://img.shields.io/github/release/VisualError/OnePunchGoose.svg)
+### A Mod to Punch Problems away! 
 
 
 Whenever you unplease the goose it unleashes its anger and bites your cursor,
@@ -20,14 +20,15 @@ Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 
  - Goose makes your cursor spasm all over the place if you anger it.
  - Particles that looks hot. <sub><sup>haha not really</sup></sub>
- - No more biting!
- <sub>(Known bugs.. It only removes the problem of the goose and gives you more problems)</sub>
+ - Impactful sound!
+ - AND LASTLY, No more biting!
+ <sub>(Known bug.. It only removes the problem of the goose and gives you more problems)</sub>
 
 
 ## Preview
 Goose Version: **v0.3**
 
-Mod Version: **v1.0**
+Mod Version: **1.0**
 
 Author: **vis#7946**
 
