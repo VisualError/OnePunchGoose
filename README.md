@@ -6,7 +6,8 @@ Whenever you unplease the goose it unleashes its anger and bites your cursor,
 and nobody wants their cursor to be bitten by this goose! So this mod makes your cursor get punched by it!.. <sub><sup>wait-</sup></sub>
 
 ## DISCLAIMER
-Please keep in mind that this mod will move your cursor and displays lots of particles in your screen when you <b>Anger the Goose. And trust me, you wouldn't want that. (unless you do)</b>
+Please keep in mind that this mod will move your cursor and displays lots of particles in your screen.
+<b>Also, DONT Anger the Goose. And trust me, you wouldn't want that. (unless you do)</b>
 </b>
 
 # Download
@@ -26,11 +27,12 @@ Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 
 
 ## Preview
+
 Goose Version: **v0.3**
 
 Mod Version: **1.0**
 
 Author: **vis#7946**
 
-![https://i.imgur.com/XmqpKNo.gif](https://i.imgur.com/XmqpKNo.gif)
+YouTube Video Preview: [One Punch Goose Mod!](https://youtu.be/AOf0w9R5sTQ)
 
