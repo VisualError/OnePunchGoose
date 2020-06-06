@@ -1,5 +1,5 @@
 
-# OnePunchGoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/OnePunchGoose/total?logo=github)
+# OnePunchGoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/OnePunchGoose/total?logo=github) ![GitHub Releases (by Release)](http://img.shields.io/github/release/VisualError/OnePunchGoose.svg)
 ### A Mod to Punch Problems away! 
 
 
@@ -28,7 +28,7 @@ Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 ## Preview
 Goose Version: **v0.3**
 
-Mod Version: ![GitHub Releases (by Release)](http://img.shields.io/github/v/release/VisualError/OnePunchGoose.svg)
+Mod Version: **1.0**
 
 Author: **vis#7946**
 
