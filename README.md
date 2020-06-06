@@ -30,7 +30,7 @@ Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 
 Goose Version: **v0.3**
 
-Mod Version: **1.0**
+Mod Version: **1.1**
 
 Author: **vis#7946**
 
